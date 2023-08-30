@@ -2,7 +2,7 @@ package com.thorat;
 
 import java.util.ArrayList;
 
-public class Array {
+public class Case {
 	public static void main(String[] args) {
 
 		ArrayList<Integer> al = new ArrayList<Integer>();
