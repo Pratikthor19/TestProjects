@@ -10,6 +10,7 @@ public class Case {
 		al.add(50);
 		al.add(75);
 		al.add(100);
+		al.add(120);
 
 		System.out.println(al);
 	}
